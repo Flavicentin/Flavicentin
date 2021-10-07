@@ -1,4 +1,4 @@
-## Hi! I'm Flavio and I love technology :)
+## Hi! I'm Flavio :)
 
 - 🔭 I’m currently working on my progress 
 - 🌱 I’m currently learning: JavaScript, HTML, CSS and Java
