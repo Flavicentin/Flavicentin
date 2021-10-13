@@ -19,7 +19,6 @@ Those are the technologies, that I'm learning and using to become a developer
  </div>
  
  ##
-<div align ="center">
   <a href="https://github.com/Flavicentin">
   <img height="180em" widht="" src="https://github-readme-stats.vercel.app/api?username=Flavicentin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
