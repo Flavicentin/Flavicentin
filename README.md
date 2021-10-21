@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my progress 
 - 🌱 I’m currently learning: JavaScript, HTML, CSS and Java
-- 📫 How to reach me: flavicentin10@gmail.com or flavio.vicentin@outlook.com
+- 📫 How to reach me: flavicentin10@gmail.com 
 
 
 ## SKILLS
