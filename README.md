@@ -1,7 +1,7 @@
 ## Hi! I'm Flavio :)
 
 - 🔭 I’m currently working on my progress 
-- 🌱 I’m currently learning: JavaScript, HTML, CSS and Java
+- 🌱 I’m currently learning: JavaScript, HTML, CSS, Java, Microservices, Kotlin, Flutter, SQL
 - 📫 How to reach me: flavicentin10@gmail.com 
 
 
