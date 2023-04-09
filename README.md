@@ -1,11 +1,11 @@
-## Hi! I'm Flavio :)
+## Hello! I'm Flavio M Vicentin :)
 
 - 🔭 I’m currently working on my progress 
 - 🌱 I’m currently learning: JavaScript, HTML, CSS, Java, Microservices, Kotlin, Flutter, SQL
 - 📫 How to reach me: flavicentin10@gmail.com 
 
 
-## SKILLS
+### SKILLS
 Those are the technologies, that I'm learning and using to become a developer
 <div style="display: inline_block"><br>
   <img align="center" alt="Fla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,7 +18,7 @@ Those are the technologies, that I'm learning and using to become a developer
   
  </div>
   
-  ## CONTACT
+  ### CONTACT
 
 <div> 
   <a href = "mailto:flavicentin10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
