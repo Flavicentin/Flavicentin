@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on my progress 
 - 🌱 I'm always learning new skills and knowledge
 - 🏦 Currently working at Safra Bank
-- 📫 How to reach me: flavicentin10@gmail.com 
+
+  
   
   ### CONTACT
 
